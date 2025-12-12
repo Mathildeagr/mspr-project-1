@@ -16,3 +16,9 @@
 - Gestion de projet : Jira
 - Versioning : GitHub
 - Méthodologie : Agile (Scrum light)
+
+## Convention Git
+- main : version stable
+- dev : intégration
+- feature/nom-feature
+- fix/nom-correctif
